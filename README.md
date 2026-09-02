@@ -482,7 +482,7 @@ Install the following before running the project:
 ## 1. Clone the Repository
 
 ```bash
-git clone [https Projectlink]
+git clone https://github.com/abhijit9864/crm-sales-management-system.git
 cd crm-sales-management-system
 ```
 
@@ -849,6 +849,12 @@ Possible future improvements include:
 
 Full Stack Developer
 
+GitHub:  
+https://github.com/amisha-praharaj
+
+Repository:  
+https://github.com/amisha-praharaj/crm-sales-management-system
+
 ---
 
 ## Assignment
@@ -871,5 +877,3 @@ The project demonstrates practical implementation of:
 - Sales pipeline management
 - Dashboard analytics
 - Full-stack application architecture
-#   c r m - s a l e s - m a n a g e m e n t - s y s t e m  
- 

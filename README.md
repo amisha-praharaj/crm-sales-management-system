@@ -567,11 +567,6 @@ npm run dev
 npm run build
 ```
 
-### Preview production build
-
-```bash
-npm run preview
-```
 
 ### Lint
 
@@ -590,6 +585,9 @@ npm run create-admin
 ```
 
 Follow the script configuration/prompts to create an administrator account.
+Otherwise use 
+Email: admin@crm.com
+Password: Admin@123456
 
 ---
 
